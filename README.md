@@ -42,6 +42,5 @@ Check them out on my GitHub 👉 [Anupamshukla8471](https://github.com/Anupamshu
 
 ---
 
-Thanks for stopping by! Let’s build something cool together 🚀
 
 --->
