@@ -1,46 +1,38 @@
-# 👋 Hi there, I'm Anupam Shukla!
 
-🎓 **B.Tech CSE Student** | 🤖 **Aspiring Data Scientist**  
-🔍 Currently exploring the world of AI, Machine Learning, and Data-driven solutions.
+<h1 align="center">Hi 👋, I'm Anupam shukla</h1>
+<h3 align="center">B.Tech CSE Student | Aspiring Data Scientist | ML Enthusiast</h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anupamshukla8471&label=Profile%20views&color=0e75b6&style=flat" alt="anupamshukla8471" /> </p>
 
-## 🧠 About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anupamshukla8471" alt="anupamshukla8471" /></a> </p>
 
-I'm an enthusiastic developer passionate about uncovering insights from data and building ML models that actually *work*. Whether it’s predicting Titanic survivors or diagnosing liver conditions, I enjoy combining logic, stats, and just a touch of code magic.
+<p align="left"> <a href="https://twitter.com/anupamshukla2" target="blank"><img src="https://img.shields.io/twitter/follow/anupamshukla2?logo=twitter&style=for-the-badge" alt="anupamshukla2" /></a> </p>
 
-> 🧪 Despite being a Data Scientist, I still whisper _"please"_ to my code when debugging…  
-> And it works **72.3% of the time** — yes, I ran the stats! 📊😄
+- 🔭 I’m currently working on [TSX_UNSTOP_PYTHON_ASSESMENT](https://github.com/Anupamshukla8471/TSX_UNSTOP_PYTHON_ASSESMENT_2)
 
----
+- 🌱 I’m currently learning **Pandas,NumPy,Matplotlib & Seaborn,Scikit-learn**
 
-## 🚀 Current Projects
+- 👯 I’m looking to collaborate on [face_image_detection](https://github.com/Anupamshukla8471/Face_image_detection)
 
-- 🏥 **Cirrhosis Liver Prediction** — Machine Learning model to predict liver condition stages  
-- 🚢 **Titanic Survival Prediction** — Classification model using logistic regression and decision trees  
-- 🪨 **Rock vs. Mine Classification** — Achieved **100% accuracy** with fine-tuned supervised learning
+- 💬 Ask me about **- Python for Data Science - Machine Learning (Scikit-Learn) - Jupyter Notebooks & Data Cleaning - Exploratory Data Analysis (EDA) - Power BI Dashboards - Streamlit app basics - Career in Data Science as a student**
 
-Check them out on my GitHub 👉 [Anupamshukla8471](https://github.com/Anupamshukla8471)
+- 📫 How to reach me **anupamshukla2609@gmail.com**
 
----
+- ⚡ Fun fact **I speak fluent Python... but still struggle with speaking in meetings 😅🐍**
 
-## 🛠️ Tech Stack
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/anupamshukla2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anupamshukla2" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/edit/30622424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/edit/30622424" height="30" width="40" /></a>
+<a href="https://kaggle.com/anupamshukla1234256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anupamshukla1234256" height="30" width="40" /></a>
+<a href="https://instagram.com/anupam.shukla08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anupam.shukla08" height="30" width="40" /></a>
+</p>
 
-- **Languages:** Python, C, Java (Basics)  
-- **Tools & Frameworks:** Jupyter Notebook, Google Colab, Git  
-- **Libraries:** scikit-learn, Pandas, NumPy, Matplotlib  
-- **Concepts:** Machine Learning, Data Science, Basic DSA
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anupamshukla8471&show_icons=true&locale=en&layout=compact" alt="anupamshukla8471" /></p>
 
-## 🌐 Connect with Me
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anupamshukla8471&show_icons=true&locale=en" alt="anupamshukla8471" /></p>
 
-- 📧 **Email:** anupamshukla2609@gmail.com  
-- 💼 **LinkedIn:** *[Add your profile link]*  
-- 📷 **Instagram:** *[Add handle or remove]*  
-- 🔗 **Portfolio/GitHub:** [https://github.com/Anupamshukla8471](https://github.com/Anupamshukla8471)
-
----
-
-
---->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anupamshukla8471&" alt="anupamshukla8471" /></p>
