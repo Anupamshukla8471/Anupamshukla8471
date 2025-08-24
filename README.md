@@ -35,5 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anupamshukla8471&show_icons=true&locale=en" alt="anupamshukla8471" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anupamshukla8471&" alt="anupamshukla8471" /></p>
-![Snake animation](https://github.com/anupamshukla/anupamshukla/blob/output/github-contribution-grid-snake.svg)
+
 
