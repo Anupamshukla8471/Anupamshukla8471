@@ -16,6 +16,7 @@
 - 💬 Ask me about *- Python for Data Science - Machine Learning (Scikit-Learn) - Jupyter Notebooks & Data Cleaning - Exploratory Data Analysis (EDA) - Power BI Dashboards - Streamlit app basics - Career in Data Science as a student*
 
 - 📫 How to reach me *anupamshukla2609@gmail.com*
+![Snake animation](https://github.com/anupamshukla8471/anupamshukla8471/blob/output/snake.svg)
 
 - ⚡ Fun fact *I speak fluent Python... but still struggle with speaking in meetings 😅🐍*
 
