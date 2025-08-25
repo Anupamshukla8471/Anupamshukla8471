@@ -36,7 +36,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anupamshukla8471&" alt="anupamshukla8471" /></p>
 
-![Snake animation](https://github.com/anupamshukla8471/anupamshukla8471/blob/output/snake.svg)
+
 
 
 
